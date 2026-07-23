@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RyanMphelo22/RyanMphelo22/main/manport.png" width="160" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center">Maqoba Ryan Mphelo</h1>
 <p align="center"><b>Full-Stack Developer • CS Student • Security-Minded Builder</b></p>
